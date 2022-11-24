@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/calculator.png</file>
+    </qresource>
+</RCC>
